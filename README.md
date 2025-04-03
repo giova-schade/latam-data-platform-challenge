@@ -14,7 +14,7 @@ Se adopta una arquitectura inspirada en Data Mesh, donde:
 - Se aplican prácticas de DAMA-DMBOK para asegurar control sobre metadatos, calidad, acceso y trazabilidad.
 
 **Esta metodología asegura escalabilidad organizacional, cumplimiento normativo y agilidad operativa.**
-![Arquitectura Técnica](./ARQUITECTURA_TÉCNICA.jpg)
+![Arquitectura Técnica](./ARQUITECTURA_TÉCNICA.jpg)
 
 ![Gobierno de Datos Federado - GCP + Data Mesh](./Gobierno_de_Datos_Federado_-_GCP_+_Data_Mesh.jpg)
 
